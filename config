@@ -18,3 +18,4 @@ font-family = RobotoMono Nerd Font Mono
 resize-overlay = never
 macos-titlebar-style = tabs
 title = " "
+font-size = 15 
