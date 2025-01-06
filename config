@@ -12,8 +12,8 @@ keybind = alt+l=goto_split:right
 
 # Look
 theme = NvimDark
-background-opacity = 0.5
-background-blur-radius = 36 
+background-opacity = 0.6
+background-blur-radius = 48 
 font-family = RobotoMono Nerd Font Mono
 resize-overlay = never
 macos-titlebar-style = tabs
